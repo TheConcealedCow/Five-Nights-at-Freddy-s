@@ -10,10 +10,12 @@ Uploaded on behalf of ThatFNaCPorter, a port of Five Nights at Freddy's to [Psyc
 This version generally attempts to stay as true to the original as possible, with bugs only being fixed unintentionally by optimized coding methods.
 
 Main fixes:
+
 	* Game has unlocked framerate, being able to run at over 60 fps and with playBackRate support
 	* Perspective shader is smoother, leaving no crust behind!
 
 Bugs uninentionally fixed:
+
 	* Main menu selection fixes
 	* Being able to win at lower framerates
 	* Being able to kill foxy
