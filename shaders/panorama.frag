@@ -12,8 +12,8 @@ void main() {
 	vec2 fragCoord = (uv * res);
 	
 	float CurrentSinStep = ((fragCoord.x - (res.x / 2.)) / (res.x / p)) + hP;
-    float CurrentHeight = (max(1., res.y + sin(CurrentSinStep) * Zoom - Zoom));
-    float yThing = (res.y - CurrentHeight);
+	float CurrentHeight = (max(1., res.y + sin(CurrentSinStep) * Zoom - Zoom));
+	float yThing = (res.y - CurrentHeight);
 	float newY = uv.y - ((uv.y - 0.5) * (yThing / res.y));
 	
 	gl_FragColor = flixel_texture2D(bitmap, vec2(uv.x, newY));
