@@ -26,7 +26,7 @@ Bugs uninentionally fixed:
 	* Certain props not being hidden/shown correctly
 	* Scares being able to override each other
 
-(list will be added on to as i remember what was changed)
+(list will be added on to as I remember what was changed)
 
 And of course, none of the Clickteam Binds have been added in.
 
