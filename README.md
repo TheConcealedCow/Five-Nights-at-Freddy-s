@@ -32,7 +32,7 @@ And of course, none of the Clickteam Binds have been added in.
 
 ## Installation:
 - download
-- Place in mods/ of a folder of Psych Engine (1.0.1+)
+- Place in "mods/" of a version of Psych Engine at or above 1.0.1
 - now have fnaf in psych
 
 ## Example Images:
