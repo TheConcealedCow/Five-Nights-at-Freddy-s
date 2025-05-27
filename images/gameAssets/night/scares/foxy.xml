@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="foxy.png" width="5528" height="4806">
+  <SubTexture name="Scare0001" x="1" y="1"  width="1600" height="720" frameX="-0" frameY="-0" frameWidth="1600" frameHeight="720"/>
+  <SubTexture name="Scare0002" x="1603" y="1"  width="1600" height="720" frameX="-0" frameY="-0" frameWidth="1600" frameHeight="720"/>
+  <SubTexture name="Scare0003" x="3205" y="1"  width="1600" height="720" frameX="-0" frameY="-0" frameWidth="1600" frameHeight="720"/>
+  <SubTexture name="Scare0004" x="1" y="723"  width="1600" height="720" frameX="-0" frameY="-0" frameWidth="1600" frameHeight="720"/>
+  <SubTexture name="Scare0005" x="1603" y="723"  width="1600" height="720" frameX="-0" frameY="-0" frameWidth="1600" frameHeight="720"/>
+  <SubTexture name="Scare0006" x="3205" y="723"  width="1600" height="720" frameX="-0" frameY="-0" frameWidth="1600" frameHeight="720"/>
+  <SubTexture name="Scare0007" x="4807" y="1" width="720" height="1600" rotated="true"  frameX="-0" frameY="-0" frameWidth="1600" frameHeight="720"/>
+  <SubTexture name="Scare0008" x="1" y="1445"  width="1600" height="720" frameX="-0" frameY="-0" frameWidth="1600" frameHeight="720"/>
+  <SubTexture name="Scare0009" x="1603" y="1445"  width="1600" height="720" frameX="-0" frameY="-0" frameWidth="1600" frameHeight="720"/>
+  <SubTexture name="Scare0010" x="3205" y="1445"  width="1600" height="720" frameX="-0" frameY="-0" frameWidth="1600" frameHeight="720"/>
+  <SubTexture name="Scare0011" x="1" y="2167"  width="1600" height="720" frameX="-0" frameY="-0" frameWidth="1600" frameHeight="720"/>
+  <SubTexture name="Scare0012" x="1603" y="2167"  width="1600" height="720" frameX="-0" frameY="-0" frameWidth="1600" frameHeight="720"/>
+  <SubTexture name="Scare0013" x="3205" y="2167"  width="1600" height="720" frameX="-0" frameY="-0" frameWidth="1600" frameHeight="720"/>
+  <SubTexture name="Scare0014" x="4807" y="1603" width="720" height="1600" rotated="true"  frameX="-0" frameY="-0" frameWidth="1600" frameHeight="720"/>
+  <SubTexture name="Scare0015" x="1" y="2889"  width="1600" height="720" frameX="-0" frameY="-0" frameWidth="1600" frameHeight="720"/>
+  <SubTexture name="Scare0016" x="1603" y="2889"  width="1600" height="720" frameX="-0" frameY="-0" frameWidth="1600" frameHeight="720"/>
+  <SubTexture name="Scare0017" x="3205" y="2889"  width="1600" height="720" frameX="-0" frameY="-0" frameWidth="1600" frameHeight="720"/>
+  <SubTexture name="Scare0018" x="1" y="3611"  width="1600" height="720" frameX="-0" frameY="-0" frameWidth="1600" frameHeight="720"/>
+  <SubTexture name="Scare0019" x="1603" y="3611"  width="1600" height="720" frameX="-0" frameY="-0" frameWidth="1600" frameHeight="720"/>
+  <SubTexture name="Scare0020" x="3205" y="3611"  width="1600" height="720" frameX="-0" frameY="-0" frameWidth="1600" frameHeight="720"/>
+  <SubTexture name="Scare0021" x="4807" y="3205" width="720" height="1600" rotated="true"  frameX="-0" frameY="-0" frameWidth="1600" frameHeight="720"/>
+  <SubTexture name="Scare0022" x="4807" y="3205" width="720" height="1600" rotated="true"  frameX="-0" frameY="-0" frameWidth="1600" frameHeight="720"/>
+  <SubTexture name="Scare0023" x="4807" y="3205" width="720" height="1600" rotated="true"  frameX="-0" frameY="-0" frameWidth="1600" frameHeight="720"/>
+  <SubTexture name="Scare0024" x="4807" y="3205" width="720" height="1600" rotated="true"  frameX="-0" frameY="-0" frameWidth="1600" frameHeight="720"/>
+  <SubTexture name="Scare0025" x="4807" y="3205" width="720" height="1600" rotated="true"  frameX="-0" frameY="-0" frameWidth="1600" frameHeight="720"/>
+</TextureAtlas>

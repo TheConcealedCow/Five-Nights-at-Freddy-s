@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="freddy.png" width="1520" height="1444">
+  <SubTexture name="BugC0001" x="1" y="1"  width="676" height="588" frameX="-493" frameY="-132" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="BugA0001" x="679" y="1"  width="787" height="720" frameX="-493" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="BugB0001" x="1" y="723"  width="787" height="720" frameX="-493" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Idle0001" x="790" y="723"  width="729" height="720" frameX="-493" frameY="-0" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>

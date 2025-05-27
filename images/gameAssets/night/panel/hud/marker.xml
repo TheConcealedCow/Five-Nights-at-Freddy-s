@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="marker.png" width="61" height="84">
+  <SubTexture name="Idle0001" x="1" y="1"  width="59" height="40" frameX="-1" frameY="-0" frameWidth="60" frameHeight="40"/>
+  <SubTexture name="Sel0001" x="1" y="43"  width="59" height="40" frameX="-1" frameY="-0" frameWidth="60" frameHeight="40"/>
+  <SubTexture name="Sel0002" x="1" y="1"  width="59" height="40" frameX="-1" frameY="-0" frameWidth="60" frameHeight="40"/>
+</TextureAtlas>

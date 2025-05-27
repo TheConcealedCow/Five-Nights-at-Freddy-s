@@ -1,0 +1,3 @@
+FNaF Port Credits
+Rudyrue::rdy::Made Base HX Project Script::https://bsky.app/profile/did:plc:rquiqukf4yb4c4jy4zio6hpn::0xFF946B58
+ThatFNaCPorter::tfnacp::Programmer::https://gamebanana.com/members/3301236::0xFFFC99A4

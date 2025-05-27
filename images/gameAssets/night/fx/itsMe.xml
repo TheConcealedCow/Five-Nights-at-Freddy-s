@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="itsme.png" width="1282" height="1444">
+  <SubTexture name="Idle0001" x="1" y="1"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Idle0002" x="762" y="723" width="110" height="645" rotated="true"  frameX="-434" frameY="-384" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Idle0003" x="1" y="723"  width="759" height="720" frameX="-276" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Idle0004" x="762" y="723" width="110" height="645" rotated="true"  frameX="-177" frameY="-138" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>

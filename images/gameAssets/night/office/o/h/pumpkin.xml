@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="pumpkin.png" width="351" height="339">
+  <SubTexture name="Idle0001" x="1" y="1" width="115" height="111" rotated="true"  frameX="-18" frameY="-18" frameWidth="143" frameHeight="150"/>
+  <SubTexture name="Idle0002" x="118" y="1" width="115" height="111" rotated="true"  frameX="-18" frameY="-18" frameWidth="143" frameHeight="150"/>
+  <SubTexture name="Idle0003" x="235" y="1" width="115" height="111" rotated="true"  frameX="-18" frameY="-18" frameWidth="143" frameHeight="150"/>
+  <SubTexture name="Idle0004" x="1" y="114" width="115" height="111" rotated="true"  frameX="-18" frameY="-18" frameWidth="143" frameHeight="150"/>
+  <SubTexture name="Idle0005" x="118" y="114" width="115" height="111" rotated="true"  frameX="-18" frameY="-18" frameWidth="143" frameHeight="150"/>
+  <SubTexture name="Idle0006" x="235" y="114" width="115" height="111" rotated="true"  frameX="-18" frameY="-18" frameWidth="143" frameHeight="150"/>
+  <SubTexture name="Idle0007" x="1" y="227" width="115" height="111" rotated="true"  frameX="-18" frameY="-18" frameWidth="143" frameHeight="150"/>
+</TextureAtlas>

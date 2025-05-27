@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="panel.png" width="3011" height="2478">
+  <SubTexture name="Idle0001" x="1" y="1"  width="919" height="73" frameX="-184" frameY="-647" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Idle0002" x="922" y="1"  width="939" height="97" frameX="-174" frameY="-623" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Idle0003" x="1863" y="1"  width="979" height="154" frameX="-154" frameY="-566" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Idle0004" x="1" y="100"  width="1027" height="236" frameX="-130" frameY="-484" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Idle0005" x="1030" y="157"  width="1084" height="335" frameX="-102" frameY="-385" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Idle0006" x="1" y="494"  width="1148" height="442" frameX="-70" frameY="-278" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Idle0007" x="1151" y="494"  width="1217" height="547" frameX="-36" frameY="-173" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Idle0008" x="2370" y="157" width="640" height="1277" rotated="true"  frameX="-3" frameY="-80" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Idle0009" x="1" y="1043"  width="1280" height="712" frameX="-0" frameY="-8" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Idle0010" x="1283" y="1436"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Idle0011" x="1" y="1757"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>

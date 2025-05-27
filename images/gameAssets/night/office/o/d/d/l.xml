@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="l.png" width="1669" height="1575">
+  <SubTexture name="Closed0001" x="1" y="1" width="720" height="223" rotated="true"  frameX="-0" frameY="-0" frameWidth="223" frameHeight="720"/>
+  <SubTexture name="Closing0001" x="723" y="1" width="720" height="223" rotated="true"  frameX="-0" frameY="-0" frameWidth="223" frameHeight="720"/>
+  <SubTexture name="Closing0002" x="1" y="226" width="720" height="223" rotated="true"  frameX="-0" frameY="-0" frameWidth="223" frameHeight="720"/>
+  <SubTexture name="Closing0003" x="723" y="226" width="720" height="223" rotated="true"  frameX="-0" frameY="-0" frameWidth="223" frameHeight="720"/>
+  <SubTexture name="Closing0004" x="1" y="451" width="720" height="223" rotated="true"  frameX="-0" frameY="-0" frameWidth="223" frameHeight="720"/>
+  <SubTexture name="Closing0005" x="723" y="451" width="720" height="223" rotated="true"  frameX="-0" frameY="-0" frameWidth="223" frameHeight="720"/>
+  <SubTexture name="Closing0006" x="1445" y="1"  width="223" height="720" frameX="-0" frameY="-0" frameWidth="223" frameHeight="720"/>
+  <SubTexture name="Closing0007" x="1" y="676" width="720" height="223" rotated="true"  frameX="-0" frameY="-0" frameWidth="223" frameHeight="720"/>
+  <SubTexture name="Closing0008" x="723" y="676" width="720" height="223" rotated="true"  frameX="-0" frameY="-0" frameWidth="223" frameHeight="720"/>
+  <SubTexture name="Closing0009" x="1" y="901" width="720" height="223" rotated="true"  frameX="-0" frameY="-0" frameWidth="223" frameHeight="720"/>
+  <SubTexture name="Closing0010" x="723" y="901" width="720" height="223" rotated="true"  frameX="-0" frameY="-0" frameWidth="223" frameHeight="720"/>
+  <SubTexture name="Closing0011" x="1" y="1126" width="720" height="223" rotated="true"  frameX="-0" frameY="-0" frameWidth="223" frameHeight="720"/>
+  <SubTexture name="Closing0012" x="723" y="1126" width="720" height="223" rotated="true"  frameX="-0" frameY="-0" frameWidth="223" frameHeight="720"/>
+  <SubTexture name="Closing0013" x="1445" y="723"  width="223" height="720" frameX="-0" frameY="-0" frameWidth="223" frameHeight="720"/>
+  <SubTexture name="Closing0014" x="1" y="1351" width="720" height="223" rotated="true"  frameX="-0" frameY="-0" frameWidth="223" frameHeight="720"/>
+  <SubTexture name="Closing0015" x="723" y="1351" width="720" height="223" rotated="true"  frameX="-0" frameY="-0" frameWidth="223" frameHeight="720"/>
+  <SubTexture name="Closing0016" x="1" y="1" width="720" height="223" rotated="true"  frameX="-0" frameY="-0" frameWidth="223" frameHeight="720"/>
+  <SubTexture name="Open0001" x="723" y="1" width="720" height="223" rotated="true"  frameX="-0" frameY="-0" frameWidth="223" frameHeight="720"/>
+</TextureAtlas>
